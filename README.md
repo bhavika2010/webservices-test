@@ -1,1 +1,1 @@
-# cucumbertests
+# selenium POM tests
