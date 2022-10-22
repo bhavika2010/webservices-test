@@ -1,1 +1,1 @@
-# selenium POM tests
+REST API testing
