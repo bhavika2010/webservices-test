@@ -1,1 +1,1 @@
-REST API testing
+REST API testing using REST Assured
